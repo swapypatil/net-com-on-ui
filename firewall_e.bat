@@ -1,0 +1,1 @@
+runas /noprofile /user:mymachine\administrator firewall_enable.bat
